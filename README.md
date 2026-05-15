@@ -1,5 +1,8 @@
 # ☕ 𝚜𝚒𝚐𝚖𝚊𝚟𝚎𝚘𝚕
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sigmavel)
+
+
 `ᴅᴇᴠᴆʟᴏᴘᴇʀ | ᴄʀᴇᴀᴛᴏʀ | ᴏᴘᴆɴ ꜱᴏᴜʀᴄᴆ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ`
 
 Bringing interfaces to life 💻 and logic to reality 🧠
