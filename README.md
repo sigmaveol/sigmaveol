@@ -1,6 +1,6 @@
 # ☕ 𝚜𝚒𝚐𝚖𝚊𝚟𝚎𝚘𝚕
 
-`ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴄʀᴇᴀᴛᴏʀ | ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ`
+`ᴅᴇᴠᴆʟᴏᴘᴇʀ | ᴄʀᴇᴀᴛᴏʀ | ᴏᴘᴆɴ ꜱᴏᴜʀᴄᴆ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ`
 
 Bringing interfaces to life 💻 and logic to reality 🧠
 
@@ -16,25 +16,42 @@ Bringing interfaces to life 💻 and logic to reality 🧠
 
 ---
 
-## ⌁ 𝘵𝘦𝘭𝘦𝘮𝘦𝘵𝘳𝘺
+## ⌁ 𝘵𝘦𝘭ᴆ𝘮ᴆ𝘵𝘳𝘺
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sigmaveol&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigmaveol&layout=compact&theme=radical)
 
----
-
-## ⌁ 𝘵𝘳𝘰𝘱𝘩𝘪𝘦𝘴
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sigmaveol&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sigmaveol&theme=radical&cache_seconds=1800)
 
 ---
 
-## ⌁ 𝘤𝘰𝘯𝘯𝘦𝘤𝘵
+## ⌁ 𝘭𝘪𝘷ᴆ 𝘤𝘰𝘥𝘪𝘯𝘨
+
+[![Spotify](https://novatorem-kohl-two.vercel.app/api/spotify?background_color=0d1117&border_color=ff4d4d)](https://open.spotify.com/user/your-spotify-id)
+
+---
+
+## ⌁ 𝘵𝘳𝘰𝘱𝘩𝘪ᴆ𝘴
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sigmaveol&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## ⌁ 𝘸𝘢𝘬ᴆ 𝘵𝘪𝘮ᴆ *(nếu bạn dùng WakaTime)*
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sigmaveol&theme=radical&layout=compact)](https://wakatime.com/@sigmaveol)
+
+---
+
+## ⌁ 𝘷𝘪𝘴𝘪𝘵𝘰𝘳𝘴
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sigmaveol&color=ff4d4d&style=flat-square&label=PROFILE+VIEWS)
+
+---
+
+## ⌁ 𝘤𝘰𝘯𝘯ᴆ𝘤𝘵
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sigmaveol)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com) *(thay bằng email của bạn)*
-
----
 
 // END_OF_TRANSMISSION
